@@ -8,6 +8,9 @@ public class Contact {
     private String address;
 
     public Contact(String contactId, String firstName, String lastName, String phone, String address){
+        /*
+         * This is the input validation
+         */
         if(contactId == null || contactId.length() > 10){
             throw new IllegalArgumentException("Invalid ID!");
         }
