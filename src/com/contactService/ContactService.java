@@ -1,7 +1,6 @@
-package com.company;
+package com.contactService;
 
 
-import java.sql.Array;
 import java.util.*;
 
 public class ContactService {

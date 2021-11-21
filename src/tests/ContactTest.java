@@ -1,5 +1,6 @@
-package com.company;
+package tests;
 
+import com.contactService.Contact;
 import org.junit.jupiter.api.Assertions;
 
 import static org.junit.jupiter.api.Assertions.*;

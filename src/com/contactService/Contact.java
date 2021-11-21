@@ -1,4 +1,4 @@
-package com.company;
+package com.contactService;
 
 public class Contact {
     private String contactId;
